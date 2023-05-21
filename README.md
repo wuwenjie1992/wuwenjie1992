@@ -11,3 +11,4 @@
 - ⚡ Fun fact: ...
 - 🌐 我的网站：[wuwenjie.xyz](http://www.wuwenjie.xyz/)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wuwenjie1992&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="cveinnt" />
