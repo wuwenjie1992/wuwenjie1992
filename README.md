@@ -3,7 +3,7 @@
 
 - 🔭 我近期在关注大语言模型（LLM）
 - 🌱 我正在学习`任何感兴趣的东西`
-- 👯 I’m looking to collaborate on ...
+- 👯 我的项目[StarrySky](https://github.com/wuwenjie1992/StarrySky)，欢迎star。😄😄😄该项目精选了千余repo，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉等内容。 
 - 🤔 我在使用大语言模型（LLM）和网络解决我的许多问题。
 - 💬 Ask me about ...
 - 📫 怎么联系我: wuwenjie0605#gmail
