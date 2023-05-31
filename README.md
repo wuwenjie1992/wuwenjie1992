@@ -7,8 +7,10 @@
 - 🤔 我在使用大语言模型（LLM）和网络解决我的许多问题。
 - 💬 Ask me about ...
 - 📫 怎么联系我: wuwenjie0605#gmail
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌐 我的网站：[wuwenjie.xyz](http://www.wuwenjie.xyz/)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wuwenjie1992&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="cveinnt" />
+
+- 😄 我最近的研究: 
+<p align="center"> <img src="./LLM_PROJECT.png" width = "500" height = "600" alt="LLM_PROJECT" align='center' />
