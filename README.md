@@ -9,6 +9,7 @@
 - 📫 怎么联系我: wuwenjie0605#gmail
 - ⚡ Fun fact: ...
 - 🌐 我的网站：[wuwenjie.xyz](http://www.wuwenjie.xyz/)
+- 🌐 我的新闻网站：[既智新闻](http://www.wuwenjie.xyz/wordpress) ，特色是新闻标题、关键词、文章内容均为AI大语言模型生成，新闻信息来源是真实的。
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wuwenjie1992&count_private=false&show_icons=true&hide_border=true&theme=tokyonight" alt="cveinnt" />
 
