@@ -15,3 +15,9 @@
 
 - 😄 我最近的研究: 
 <p align="center"> <img src="./LLM_PROJECT.png" width = "500" height = "600" alt="LLM_PROJECT" align='center' />
+
+
+<div align="center">
+  <p><b>个人介绍 游览量</b></p>
+  <img src="https://profile-counter.glitch.me/wuwenjie1992/count.svg" />
+</div>
