@@ -8,9 +8,9 @@
 - 💬 可以问我关于：
 - 📫 怎么联系我: wuwenjie0605#gmail
 - ⚡ 有趣的事：1992年的中国上海，一对分别生于1966和1970年的夫妇赋予了我生命。
-- 🌐 我的网站：[wuwenjie.xyz](https://www.wuwenjie.xyz/)
+- 🌐 我的网站：[wuwenjie.xyz](https://www.wuwenjie.xyz/) ，曾经使用过域名：wuwenjie.tk 。
 - 🌐 我的新闻网站：[既智新闻](https://www.wuwenjie.xyz/wordpress) ，特色是新闻标题、关键词、文章内容均为AI大语言模型生成，新闻信息来源是真实的。
-- 😄 我最近的研究: <p align="center"> <img src="./LLM_PROJECT.png" width = "500" height = "600" alt="LLM_PROJECT" align='center' />
+- 😄 我最近的研究: AI 内容农场、AI Agent、RAG等。<p align="center"> <img src="./LLM_PROJECT.png" width = "500" height = "600" alt="LLM_PROJECT" align='center' />
 
 <div align="center">
   <h2> 🏆 我的Github统计 My Github Stats </h2><br>
