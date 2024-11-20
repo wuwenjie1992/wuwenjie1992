@@ -3,7 +3,7 @@
 
 - 🔭 我近期在关注大语言模型（LLM）、AIGC等。
 - 🌱 我正在学习`任何感兴趣的东西`
-- 👯 我的项目[StarryDivineSky](https://github.com/wuwenjie1992/StarryDivineSky)，欢迎star。😄😄😄该项目精选了5K+ repo，目前获得超512+的star，内容包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉等内容。 
+- 👯 我的项目[StarryDivineSky](https://github.com/wuwenjie1992/StarryDivineSky)，欢迎star。😄😄😄该项目精选了10K+ repo，目前获得超700+的star，内容包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉等内容。 
 - 🤔 感悟：人生终似西山日，富贵原是草上霜。Life eventually resembles the setting sun, and wealth is but frost on the grass.
 - 💬 可以问我关于：
 - 📫 怎么联系我: wuwenjie0605#gmail
