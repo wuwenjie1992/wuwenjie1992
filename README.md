@@ -10,8 +10,8 @@
 - ⚡ 有趣的事：1992年的中国上海，一对分别生于1966和1970年的夫妇赋予了我生命。
 - 🌐 我的网站：[wuwenjie.xyz](https://www.wuwenjie.xyz/) ，曾经使用过域名：wuwenjie.tk 。
 - 🌐 我的新闻网站：[既智新闻](https://www.wuwenjie.xyz/wordpress) ，特色是新闻标题、关键词、文章内容均为AI大语言模型生成，新闻信息来源是真实的。
-- 🤔 我最近的博客: [Perplexity 突破：AWS Hyperpod 上 3200 Gbps GPU 内存传输](https://zhuanlan.zhihu.com/p/24729345136)
-- 😄 我最近的研究: AI 内容农场、AI Agent、RAG等。
+- 🤔 我最近的博客: [华域汽车: 传统巨擘的电动化转身——深度估值与战略剖析](https://mp.weixin.qq.com/s/Bk-mzyenPgmqrtVjGGgaCA)
+- 😄 我最近的研究: AI投资分析、AI 内容农场、AI Agent、RAG等。
 
 <div align="center">
   <h2> 🏆 我的Github统计 My Github Stats </h2><br>
