@@ -1,21 +1,18 @@
 ### 您好! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
 
 
-- 🔭 我近期在关注大语言模型（LLM）、AIGC、github优质项目、宏观经济等。
-- 🌱 我正在学习`任何感兴趣的东西`
-- 👯 我的项目[StarryDivineSky](https://github.com/wuwenjie1992/StarryDivineSky)，欢迎star。😄😄😄该项目精选了10K+ repo，目前获得超700+的star，内容包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉等内容。 
-- 🤔 感悟：人生终似西山日，富贵原是草上霜。Life eventually resembles the setting sun, and wealth is but frost on the grass.
-- 💬 可以问我关于：
+- 🔭 我近期在关注大语言模型（LLM）、宏观经济、github优质项目等，我正在学习`任何感兴趣的东西`。🌱
+- 🤔 个人自媒体: 目前集中于金融分析类，微信公众号：**既智录**，微信视频号、B站、雪球、今日头条、百家号、抖音同步更新。
+- 😄 我最近的研究: 编程Agent（例如 Claude Code）、AI投资分析、AI 内容农场、AI Agent、RAG等。
+- 👯 我的项目[StarryDivineSky](https://github.com/wuwenjie1992/StarryDivineSky)，欢迎star。😄😄😄该项目精选了10K+ repo，目前获得超700+的star，内容包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉等内容。
 - 📫 怎么联系我: wuwenjie0605#gmail
 - ⚡ 有趣的事：1992年的中国上海，一对分别生于1966和1970年的夫妇赋予了我生命。
 - 🌐 我的网站：[wuwenjie.xyz](https://www.wuwenjie.xyz/) ，曾经使用过域名：wuwenjie.tk 。
 - 🌐 我的新闻网站：[既智新闻](https://www.wuwenjie.xyz/wordpress) ，特色是新闻标题、关键词、文章内容均为AI大语言模型生成，新闻信息来源是真实的。
-- 🤔 我最近的博客: [华域汽车: 传统巨擘的电动化转身——深度估值与战略剖析](https://mp.weixin.qq.com/s/Bk-mzyenPgmqrtVjGGgaCA)
-- 😄 我最近的研究: AI投资分析、AI 内容农场、AI Agent、RAG等。
+- 🤔 感悟：人生终似西山日，富贵原是草上霜。Life eventually resembles the setting sun, and wealth is but frost on the grass.
 
 <div align="center">
   <h2> 🏆 我的Github统计 My Github Stats </h2><br>
- 
 
   <img src="https://github-profile-trophy.vercel.app/?username=wuwenjie1992&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=wuwenjie1992&theme=radical" width="50%" alt="streaks graph" />
